@@ -1,0 +1,38 @@
+{
+    "status": "1",
+    "message": "OK",
+    "result": [
+        {
+            "blockNumber": "47986504",
+            "timeStamp": "1695688000",
+            "hash": "0x6afa348f5da5cf3735a1a1b3a427ca2b698cf16f1c17ca808868d0e7827cf87d",
+            "from": "0xb243c8019c93f294c9f93330bf6ecc4f2218c49c",
+            "to": "",
+            "value": "0",
+            "contractAddress": "0x93ebe4acfd5e36ec5879704c81c49ed3204aa0b0",
+            "input": "",
+            "type": "create",
+            "gas": "5149437",
+            "gasUsed": "1120770",
+            "traceId": "0_1",
+            "isError": "0",
+            "errCode": ""
+        },
+        {
+            "blockNumber": "47986504",
+            "timeStamp": "1695688000",
+            "hash": "0x6afa348f5da5cf3735a1a1b3a427ca2b698cf16f1c17ca808868d0e7827cf87d",
+            "from": "0xb243c8019c93f294c9f93330bf6ecc4f2218c49c",
+            "to": "",
+            "value": "0",
+            "contractAddress": "0xc7e6cae21b4770472f0b78f38482605166a9568b",
+            "input": "",
+            "type": "create",
+            "gas": "4006894",
+            "gasUsed": "2179891",
+            "traceId": "0_1",
+            "isError": "0",
+            "errCode": ""
+        }
+    ]
+}
